@@ -12,6 +12,7 @@ PlayerSettings:
   AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 0
   androidTargetSdkVersion: 0
+  androidTargetArchitectures: 2
   applicationIdentifier:
     Standalone: com.kraka9235.nightclubcity
     Android: com.kraka9235.nightclubcity
