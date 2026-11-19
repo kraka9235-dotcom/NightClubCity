@@ -1,0 +1,15 @@
+{
+  "game": "NightClubCity",
+  "version": "1.0",
+  "coins": 1000,
+  "cars": [
+    "City Car",
+    "Sport Car",
+    "Super Car"
+  ],
+  "servers": [
+    "Morocco",
+    "Brazil",
+    "USA"
+  ]
+}
